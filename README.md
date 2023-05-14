@@ -1,1 +1,2 @@
 # Number-Guessing-Game
+I have created a number guessing game, where the player have to input a number between 1-100. To created i have implemented html and a little css styles and Javascrip into the code.
